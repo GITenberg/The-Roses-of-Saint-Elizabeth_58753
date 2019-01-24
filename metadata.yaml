@@ -1,16 +1,21 @@
 _repo: The-Roses-of-Saint-Elizabeth_58753
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Eberhart, Adelaide
     gutenberg_agent_id: '50138'
     url: http://www.gutenberg.org/2009/agents/50138
+covers:
+- cover_type: archival
+  image_path: 58753-h/images/cover2.jpg
 creator:
   author:
     agent_name: Woodruff, Jane Scott
     gutenberg_agent_id: '50137'
     url: http://www.gutenberg.org/2009/agents/50137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58753#The-Roses-of-Saint-Elizabeth
 gutenberg_issued: '2019-01-22'
 gutenberg_type: Text
 identifiers:
